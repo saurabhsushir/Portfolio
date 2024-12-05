@@ -53,7 +53,7 @@ export const PROJECTS = [
   {
     title: "Netflix-GPT",
     image: project1,
-    link: "https://movies-gpt.netlify.app/",
+    link: "https://netflixgpt.azurewebsites.net/",
     description:
       "The project utilizes a tech stack featuring React.js, Tailwind CSS, and Redux to develop a Netflix clone app. Additionally, a movie suggestion bot is implemented using the OpenAI API, providing personalized movie recommendations based on user input. The chosen technologies facilitate a responsive and visually appealing user interface, efficient state management, and seamless integration of external APIs.",
     technologies: ["HTML", "CSS", "Reactjs", "Redux", "Firebase","OpenAI"],
