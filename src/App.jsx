@@ -5,7 +5,8 @@ import About from './components/About'
 import Technologies from './components/Technologies'
 import Experience from './components/Experience'
 
-import Projects from './components/Projects'
+
+import Projects from './components/projects'
 import Contact from './components/Contact'
 
 const App = () => {
