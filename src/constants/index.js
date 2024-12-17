@@ -16,7 +16,7 @@ When I'm not coding, I like exploring the latest tech trends, enhancing my skill
 export const EXPERIENCES = [
   {
     year: "July 2024 - Present",
-    role: "Intern Frontend Developer",
+    role: "Software Engineer - Frontend",
     company: "BrilliantRev",
     description: `Currently contributing to the development of dynamic web applications at BrilliantRev, utilizing HTML, CSS, JavaScript, and React.js. Collaborating with senior developers to optimize UI components and enhance user experiences. Gaining hands-on experience in responsive design, performance optimization, and best practices for frontend development.`,
     technologies: ["Javascript", "React.js", "TailwindCSS", "MaterialUI","HTML"],
@@ -35,17 +35,17 @@ export const EXPERIENCES = [
   },
   {
     year: "Aug 2022 - June 2023",
-    role: "Associate (UI/UX Designer)",
+    role: "Associate - Software Engineer",
     company: "PWC Bangalore",
-    description: `Collaborated with cross-functional teams to design intuitive interfaces for enterprise applications, enhancing user satisfaction and efficiency. Conducted user research, usability testing, and created wireframes and prototypes using Figma and Adobe XD. Delivered solutions aligned with client goals while honing skills in UX methodologies and agile workflows.`,
-    technologies: ["HTML", "CSS", "FIGJAM", "FIGMA"],
+    description: `Collaborated with cross-functional teams to design and develop intuitive interfaces for enterprise applications,Developed a high-performance web app with Redux Toolkit, reducing load times by 35%. Designed a scalable component system with Material UI. Architected a new growth product with robust frontend and coding standards. Migrated to ViteJS for faster builds. Implemented CDN caching and service workers, improving TTFB by 20% and reducing server API calls by 40%.`,
+    technologies: ["HTML", "CSS", "React", "Redux"],
   },
   {
     year: "Mar 2022 - Aug 2022",
-    role: "Intern (UI/UX Designer)",
+    role: "Intern ",
     company: "PWC Bangalore",
     description: `As an Intern at PWC, I Collaborated with cross-functional teams to design user-friendly enterprise solutions by conducting user research, creating wireframes, and developing interactive prototypes. Improved user experience for internal tools and dashboards, aligning designs with client goals and business objectives. Gained expertise in UX methodologies, agile workflows, and data-driven decision-making.`,
-    technologies: ["Miro", "Figma", "HTML", "CSS"],
+    technologies: ["React", "Javascript", "HTML", "CSS"],
   },
 ];
 
